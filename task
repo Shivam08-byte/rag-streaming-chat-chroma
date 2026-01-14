@@ -1,7 +1,0 @@
-I want to learn about webspockets.
-    create a POC around it 
-        create docker conatiner with ollma enabled in it and a llm suitable foe the task 
-        a simple web page for chatting 
-        enable websockets via FAST API 
-            INTERACTION BETWEEN HUMAN AND LLM
-use python for any scripting 

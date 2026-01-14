@@ -280,6 +280,10 @@ docker compose down
 | [MODEL_SELECTION.md](docs/reference/MODEL_SELECTION.md) | Model information and selection |
 | [future_scope.md](docs/roadmap/future_scope.md) | Planned features and enhancements |
 
+## 🛠️ Repository Maintenance
+
+Active maintenance focuses on `rag-streaming-chat-chroma`. Support for `websocket-chat-ollama` has been discontinued; the `origin` remote was removed from this workspace and the open PR on that repository has been closed.
+
 ## 🎯 Adding a New Module
 
 Example: Adding ChromaDB support
