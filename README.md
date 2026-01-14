@@ -284,6 +284,8 @@ docker compose down
 
 Active maintenance focuses on `rag-streaming-chat-chroma`. Support for `websocket-chat-ollama` has been discontinued; the `origin` remote was removed from this workspace and the open PR on that repository has been closed.
 
+Release branches policy is documented in [docs/reference/RELEASE_BRANCHING.md](docs/reference/RELEASE_BRANCHING.md). Use the release notes template at [docs/reference/RELEASE_NOTES_TEMPLATE.md](docs/reference/RELEASE_NOTES_TEMPLATE.md) when publishing GitHub Releases.
+
 ## 🎯 Adding a New Module
 
 Example: Adding ChromaDB support
